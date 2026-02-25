@@ -1,0 +1,49 @@
+/* ============================================
+   VELVET — Placeholder Image Styles
+   Used until real product images are added
+   ============================================ */
+
+.placeholder-img {
+    width: 100%;
+    height: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-family: var(--font-heading);
+    font-size: 1rem;
+    font-weight: 500;
+    color: rgba(59, 59, 59, 0.25);
+    letter-spacing: 0.05em;
+}
+
+.placeholder-img--candle {
+    background: linear-gradient(145deg, #FDF6F0 0%, #F2D7D5 50%, #E8D5C4 100%);
+}
+
+.placeholder-img--perfume {
+    background: linear-gradient(145deg, #EDE7F3 0%, #D5C6E0 50%, #F2D7D5 100%);
+}
+
+.placeholder-img--cosmetic {
+    background: linear-gradient(145deg, #FDF6F0 0%, #E8D5C4 50%, #D5C6E0 100%);
+}
+
+.placeholder-img--hero {
+    background: linear-gradient(145deg, #F2D7D5 0%, #D5C6E0 50%, #E8D5C4 100%);
+}
+
+.placeholder-img--category-candles {
+    background: linear-gradient(160deg, #FAE9E7 0%, #E8D5C4 60%, #F2D7D5 100%);
+}
+
+.placeholder-img--category-perfumes {
+    background: linear-gradient(160deg, #EDE7F3 0%, #D5C6E0 60%, #F2D7D5 100%);
+}
+
+.placeholder-img--category-cosmetics {
+    background: linear-gradient(160deg, #FDF6F0 0%, #F2D7D5 60%, #D5C6E0 100%);
+}
+
+.placeholder-img--about {
+    background: linear-gradient(160deg, #E8D5C4 0%, #F2D7D5 50%, #EDE7F3 100%);
+}

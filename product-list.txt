@@ -1,0 +1,126 @@
+============================================================
+  VELVET — LISTE COMPLÈTE DES PRODUITS
+  Fichier de référence pour le remplacement des images
+============================================================
+
+Toutes les images se trouvent dans :
+  assets/images/products/
+
+Remplacer chaque fichier .png par la vraie photo du produit
+en conservant EXACTEMENT le même nom de fichier.
+
+------------------------------------------------------------
+SECTION 1 : BOUGIES BOUQUETS (Grand Format)
+------------------------------------------------------------
+
+1. Valentine
+   Fichier image : candles-bouquets-valentine.png
+   Description   : Bougie bouquet romantique aux notes de rose et de
+                   vanille — l'essence même de l'amour en cire.
+
+2. Vase
+   Fichier image : candles-bouquets-vase.png
+   Description   : Élégante et raffinée, cette bougie format vase
+                   s'inspire des jardins fleuris du printemps.
+
+3. Bride
+   Fichier image : candles-bouquets-bride.png
+   Description   : Création délicate aux effluves de fleur d'oranger
+                   et musc blanc — parfaite pour les jours spéciaux.
+
+4. Floral
+   Fichier image : candles-bouquets-floral.png
+   Description   : Un festival de fleurs en cire — pivoine, jasmin et
+                   lys réunis dans une composition généreuse.
+
+------------------------------------------------------------
+SECTION 2 : PETITES BOUGIES
+------------------------------------------------------------
+
+5. Small Pink
+   Fichier image : candles-petites-small-pink.png
+   Description   : Douce et féminine, une petite bougie aux tons rosés
+                   qui réchauffe l'atmosphère avec subtilité.
+
+6. Velvet Purple
+   Fichier image : candles-petites-velvet-purple.png
+   Description   : Notes de violette, iris et musc velouté — une
+                   petite bougie aux teintes profondes et lumineuses.
+
+7. Cubic
+   Fichier image : candles-petites-cubic.png
+   Description   : Design épuré en bloc géométrique, senteur bois de
+                   santal et cèdre — minimalisme luxueux.
+
+8. Soft Beige
+   Fichier image : candles-petites-soft-beige.png
+   Description   : Vanille crémeuse et cachemire — une bougie neutre
+                   et chaleureuse qui s'intègre à tous les décors.
+
+------------------------------------------------------------
+SECTION 3 : PARFUM DE LINGE
+------------------------------------------------------------
+
+9. Nuit d'Ambre
+   Fichier image : parfum-linge-nuit-dambre.png
+   Description   : Ambre chaud et bois précieux — un sillage
+                   enveloppant qui persiste sur vos textiles.
+
+10. Diamand Fablieuse
+    Fichier image : parfum-linge-diamand-fablieuse.png
+    Description   : Éclat cristallin de musc blanc et fleurs précieuses
+                    — un luxe raffiné pour votre linge.
+
+11. Rixon Ginger
+    Fichier image : parfum-linge-rixon-ginger.png
+    Description   : Gingembre épicé et notes citronnées — une fraîcheur
+                    vivifiante qui réveille vos sens.
+
+12. Merveille Florale
+    Fichier image : parfum-linge-merveille-florale.png
+    Description   : Bouquet de jasmin, rose et lys — un jardin
+                    enchanté sur chaque tissu.
+
+13. Lavande Velvet
+    Fichier image : parfum-linge-lavande-velvet.png
+    Description   : Lavande provençale et musc doux — un classique
+                    apaisant dans un flacon élégant.
+
+------------------------------------------------------------
+SECTION 4 : PARFUM D'AMBIANCE
+------------------------------------------------------------
+
+14. No Limit
+    Fichier image : parfum-ambiance-no-limit.png
+    Description   : Audacieux et intense — bois, cuir et épices réunis
+                    dans un parfum qui ne connaît aucune limite.
+
+15. Vintage Flower
+    Fichier image : parfum-ambiance-vintage-flower.png
+    Description   : Roses anciennes et pivoine — un bouquet nostalgique
+                    d'une élégance intemporelle.
+
+16. Eve Garden
+    Fichier image : parfum-ambiance-eve-garden.png
+    Description   : Figue fraîche, feuille verte et fleur d'oranger
+                    — le jardin d'Éden dans votre salon.
+
+17. Pink Velvet
+    Fichier image : parfum-ambiance-pink-velvet.png
+    Description   : Pétales de rose et freesia — une douceur rosée
+                    qui caresse doucement l'atmosphère.
+
+18. Sweet Bombon
+    Fichier image : parfum-ambiance-sweet-bombon.png
+    Description   : Vanille gourmande, caramel et barbe à papa — un
+                    bonbon sucré qui embaume votre intérieur.
+
+19. Bindi
+    Fichier image : parfum-ambiance-bindi.png
+    Description   : Santal sacré, encens et patchouli — un voyage
+                    olfactif vers l'Orient mystique.
+
+============================================================
+  TOTAL : 8 Bougies + 5 Parfums de Linge + 6 Parfums d'Ambiance
+          = 19 produits
+============================================================
